@@ -31,6 +31,8 @@ This led to the `text/` folder.
 cd ../cv-sentence-extractor
 cargo run --release -- extract -l ig -d xxxxxx/wikiextractor/wikiextractor/text/ --no_check >> wiki.ig.all.txt
 ```
+This gave me the `wiki.ig.all.txt` file attached in this repo.
+
 8. At this point, I proceeded to generate the `ig.toml` file by adapting from one of the languages in the pull requests (don't remember which).
 
 9.  Then I used the cvtools scripts to generate a list of the word frequency:
@@ -44,9 +46,8 @@ python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt >> word_usag
 ```
 python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt --max-frequency 20 --show-words-only >> ../cv-sentence-extractor/src/rules/disallowed_words/ig.txt
 ```
-Thi gives the `wiki.ig.all.txt` file attached in this repo.
 
-11. Finally, I extracted the sentences leading to the `wiki.ig.txt` file:
+11. Finally, I extracted the sentences, leading to the `wiki.ig.txt` file:
 ```
 cd .. 
 cd cv-sentence-extractor
