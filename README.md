@@ -2,10 +2,11 @@
 This is a project to include Igbo in the CommonVoice platform
 
 ## Setup (What I did)
-1. Installed Rust Nightly (follow the instructions and customize the install to select the nightly channel)
-2. Installed pip3 in case it's not installed on your system already
-
-3. Cloned this repo:
+1. Installed Rust Nightly by running the following code in my terminal as directed [here](https://rustup.rs/).
+2. ```
+3. curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+4. ```
+5. Cloned this repo:
 ```bash
 git clone https://github.com/Common-Voice/cv-sentence-extractor.git
 ```
