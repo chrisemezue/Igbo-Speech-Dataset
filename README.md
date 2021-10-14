@@ -33,7 +33,7 @@ cargo run --release -- extract -l ig -d xxxxxx/wikiextractor/wikiextractor/text/
 ```
 This gave me the `wiki.ig.all.txt` file attached in this repo.
 
-8. At this point, I proceeded to generate the `ig.toml` file by adapting from one of the languages in the pull requests (don't remember which).
+8. At this point, I proceeded to generate the `ig.toml` file by adapting from one of the languages in the existing pull requests (don't remember which).
 
 9.  Then I used the cvtools scripts to generate a list of the word frequency:
 ```
