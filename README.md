@@ -24,10 +24,26 @@ bzip2 -d igwiki-20211001-pages-articles-multistream.xml.bz2
 cd wikiextractor
 python3 WikiExtractor.py --json xxxxxxx/igwiki-20211001-pages-articles-multistream.xml
 ```
-7. Scraped the sentences into a new file from the WikiExtractor output dir 
+7. Scraped the sentences into a new file from the WikiExtractor output dir. Because I was going to create a blocklist, I created a full export with all Wikipedia sentences as explained [here](https://github.com/common-voice/cv-sentence-extractor#create-a-blocklist-based-on-less-common-words).
 ```
 cd ../cv-sentence-extractor
-cargo run --release -- extract -l en -d xxxxxx/wikiextractor/wikiextractor/text/ --no_check >> wiki.ig.all.txt
+cargo run --release -- extract -l ig -d xxxxxx/wikiextractor/wikiextractor/text/ --no_check >> wiki.ig.all.txt
 ```
 8. At this point, I proceeded to generate the `ig.toml` file by adapting from one of the languages in the pull requests (don't remember which).
-9.  ### Created a blocklist based on less common words
+9.  Then I used the cvtools scripts to generate a list of the word frequency:
+```
+cd  ..
+git clone https://github.com/dabinat/cvtools/
+cd cvtools
+python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt >> word_usage.en.txt
+```
+10. Then i experimented with 80 and 20 as maximum frequency, before settling for 20 as it gave more sentences which were still accurate.
+```
+python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt --max-frequency 20 --show-words-only >> ../cv-sentence-extractor/src/rules/disallowed_words/ig.txt
+```
+11. Finally, I extracted the sentences leading to the `wiki.ig.txt` file:
+```
+cd .. 
+cd cv-sentence-extractor
+cargo run --release -- extract-file -l ig -d ../wikiextractor/wikiextractor/text/ >> wiki.ig.txt
+```
