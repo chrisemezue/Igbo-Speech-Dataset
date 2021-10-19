@@ -50,7 +50,7 @@ python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt >> word_usag
 python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt --max-frequency 1 --show-words-only >> ../cv-sentence-extractor/src/rules/disallowed_words/ig.txt
 ```
 
-11. Finally, I extracted the sentences, leading to the `wiki.ig.txt` file:
+11. Finally, I extracted the sentences, leading to the `wiki.ig.txt` file which has 2165 sentences:
 ```
 cd .. 
 cd cv-sentence-extractor
