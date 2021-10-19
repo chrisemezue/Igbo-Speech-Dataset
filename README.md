@@ -45,8 +45,9 @@ cd cvtools
 python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt >> word_usage.en.txt
 ```
 10. Then i experimented with 80 and 20 as maximum frequency, before settling for 20 as it gave more sentences which were still accurate.
+*Update:* I used ` --max-frequency 1`
 ```
-python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt --max-frequency 20 --show-words-only >> ../cv-sentence-extractor/src/rules/disallowed_words/ig.txt
+python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.ig.all.txt --max-frequency 1 --show-words-only >> ../cv-sentence-extractor/src/rules/disallowed_words/ig.txt
 ```
 
 11. Finally, I extracted the sentences, leading to the `wiki.ig.txt` file:
