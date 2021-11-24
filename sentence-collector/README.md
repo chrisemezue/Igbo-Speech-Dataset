@@ -1,6 +1,3 @@
-# Igbo-Speech-Dataset
-This is a project to include Igbo in the CommonVoice platform
-
 ## Setup (What I did)
 1. Installed Rust Nightly.
 2. To install [Rust Nightly](https://rustup.rs/), I ran the following code:
