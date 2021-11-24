@@ -12,8 +12,8 @@ This is a project to curate speech dataset for Igbo using the [Common Voice](htt
 
 - The sentences were further filtered based on the [validation rules for Igbo](https://github.com/common-voice/sentence-collector/blob/main/server/lib/validation/languages/ig.js).
 
-- Furthermore, the sentences that did not pass the validation are still documented here as `discarded.txt` as additional Igbo data for the future.
+- Furthermore, the sentences that did not pass the validation are still documented here (`discarded.txt`) as additional Igbo data for other tasks.
 
 ### Licence
 
-The owner of Igbo Radio, Chidi Nnamdi Igwe, agreed for us to use the content under CC0. The contribution agreement was signed: `IgboRadio - Common Voice ContributionAgmt.pdf`
+The owner of Igbo Radio, Chidi Nnamdi Igwe, agreed for us to use their content under CC0. The contribution agreement was signed: `IgboRadio - Common Voice ContributionAgmt.pdf`
