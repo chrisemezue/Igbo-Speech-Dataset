@@ -1,6 +1,6 @@
-# Igbo Pontoon Standard Translation Table
+# Igbo Pontoon Technical Terms Table
 
-The table below documents the standard translation agreed upon for the [Igbo Pontoon platform](https://pontoon.mozilla.org/ig/common-voice/).
+The table below documents the standard translation agreed upon for some technical terms in the [Igbo Pontoon platform](https://pontoon.mozilla.org/ig/common-voice/).
 
 If you have any issues or want to add more, please do so by creating an issue on this repository.
 ____
@@ -11,4 +11,9 @@ ____
 | Email     | íméèlụ̀ (email)        |
 | voice data | ńgwá ńnyọ́chá ụ̀dà-ólú (voice data)         |
 | voice    | ụ̀dà-ólú         |
+| clips | íhé ígèńtì |
+| audio clips |  íhé ígè ńtị̀ (audio clips) |
+|Submit | Ziga |
+| Submit clips | Zìga íhé ńdékọ |
+| Accent | Ǹdébé-ólú (accent) |
 
