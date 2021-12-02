@@ -17,3 +17,9 @@ ____
 | Submit clips | Zìga íhé ńdékọ |
 | Accent | Ǹdébé-ólú (accent) |
 
+____
+## Contributors to Igbo Pontoon Translation
+Our profound gratitude goes to the following for offering translation and review services:
+- Okafor David
+- Professor G.M.T Emezue (Lead Reviewer)
+- Emeka Onwuegbuzia
