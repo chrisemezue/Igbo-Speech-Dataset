@@ -23,5 +23,4 @@ Our profound gratitude goes to the following people for offering great translati
 - Professor G.M.T Emezue
 - Okafor David
 - Emeka Onwuegbuzia
-
-Full contributors list can be found [here](https://pontoon.mozilla.org/ig/common-voice/contributors/).
+- We would further like to thank all the contributors [here](https://pontoon.mozilla.org/ig/common-voice/contributors/).
