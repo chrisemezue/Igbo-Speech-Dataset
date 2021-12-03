@@ -16,6 +16,7 @@ ____
 |Submit | Ziga |
 | Submit clips | Zìga íhé ńdékọ |
 | Accent | Ǹdébé-ólú (accent) |
+| Profile | Ǹjììmárá-ónyé (Profile) |
 
 ____
 ## Contributors to Igbo Pontoon Translation
