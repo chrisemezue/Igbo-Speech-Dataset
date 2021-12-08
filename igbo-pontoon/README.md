@@ -24,7 +24,7 @@ ____
 | dataset | nńyọ́chá |
 | Version | Ụ̀dị́ |
 | Recordings | Ḿkpọ́nyé|
-|Public Domain|Public Domain|
+|public domain|ńgàlàbà ọ̀hà (public domain)|
 |Update|M̀wúkwányé (update)|
 
 ____
