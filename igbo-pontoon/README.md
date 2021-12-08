@@ -21,7 +21,7 @@ ____
 | Review | Nyòchàá |
 |Re-record | Kpọ̀nyéghárị́á |
 |Keep the recordings | Dèbé íhé ḿkpọ́nyé |
-| dataset | nńyọ́chá |
+| dataset | ńnyọ́chá |
 | Version | Ụ̀dị́ |
 | Recordings | Ḿkpọ́nyé|
 |public domain|ńgàlàbà ọ̀hà (public domain)|
