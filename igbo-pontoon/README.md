@@ -17,6 +17,15 @@ ____
 | Submit clips | Zìga íhé ńdékọ |
 | Accent | Ǹdébé-ólú (accent) |
 | Profile | Ǹjììmárá-ónyé (Profile) |
+| License | Íkìkèré |
+| Review | Nyòchàá |
+|Re-record | Kpọ̀nyéghárị́á |
+|Keep the recordings | Dèbé íhé ḿkpọ́nyé |
+| dataset | nńyọ́chá |
+| Version | Ụ̀dị́ |
+| Recordings | Ḿkpọ́nyé|
+|Public Domain|Public Domain|
+|Update|M̀wúkwányé (update)|
 
 ____
 ## Contributors to Igbo Pontoon Translation
