@@ -16,7 +16,7 @@ ____
 |Submit | Ziga |
 | Submit clips | Zìga íhé ńdékọ |
 | Accent | Ǹdébé-ólú (accent) |
-| Profile | Ǹjììmárá-ónyé (Profile) |
+| Profile | Ǹjììmárá-ónyé (Profaịlụ) |
 | License | Íkìkèré |
 | Review | Nyòchàá |
 |Re-record | Kpọ̀nyéghárị́á |
