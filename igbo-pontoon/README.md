@@ -28,8 +28,10 @@ ____
 |Update|M̀wúkwányé (update)|
 
 ____
-## Contributors to Igbo Pontoon Translation
+## Team Members
 Our profound gratitude goes to the following people for offering great translation and review services:
+- Chris Emezue (Manager for ig)
+- Adaeze Adigwe (Manager for ig)
 - Professor G.M.T Emezue
 - Okafor David
 - Emeka Onwuegbuzia
