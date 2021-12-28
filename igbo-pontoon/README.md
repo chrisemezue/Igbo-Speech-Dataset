@@ -1,11 +1,3 @@
-## Team Members
-Our profound gratitude goes to the following people for offering great translation and review services:
-- Chris Emezue (Manager for ig)
-- Adaeze Adigwe (Manager for ig)
-- Professor G.M.T Emezue (Translator, Lead-Reviewer, Volunteer)
-- Okafor David (Translator)
-- Emeka Onwuegbuzia (Translator, Volunteer)
-- We would further like to thank all the contributors [here](https://pontoon.mozilla.org/ig/common-voice/contributors/).
 
 ### Edémédé
 [Edémédé](https://chrisemezue.github.io/edemede.github.io/) was used to type the Igbo translations
