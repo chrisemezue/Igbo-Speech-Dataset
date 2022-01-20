@@ -16,4 +16,4 @@ This is a project to curate speech dataset for Igbo using the [Common Voice](htt
 
 ### Licence
 
-The owner of Igbo Radio, Chidi Nnamdi Igwe, agreed for us to use their content under CC0. The contribution agreement was signed: `IgboRadio - Common Voice ContributionAgmt.pdf`
+The owner of Igbo Radio, Chidi Nnamdi Igwe, agreed for us to use their content under CC0. The contribution agreement was signed.
