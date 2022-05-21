@@ -2,7 +2,7 @@
 ### Edémédé
 [Edémédé](https://chrisemezue.github.io/edemede.github.io/) was used to type the Igbo translations
 
-# Igbo Pontoon Technical Terms Table
+# Igbo Pontoon Proposed Technical Terms Table
 
 The table below documents the standard translation agreed upon for some technical terms in the [Igbo Pontoon platform](https://pontoon.mozilla.org/ig/common-voice/).
 
